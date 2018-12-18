@@ -190,6 +190,10 @@ git commit -m "first commit"
 git remote add origin https://github.com/DongHwanmon/day2.git
 원격으로 어디에 저장을 할건지 연결을 시키는 명령어
 git push -u origin master
+
+
+touch add.py
+add.py파일을 생성한다.
 ```
 
 
