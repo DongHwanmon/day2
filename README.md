@@ -186,11 +186,15 @@ git init
 git add README.md
 README.md파일을 생성하는 명령어
 git commit -m "first commit"
+첫번째 커밋이라는 것을 언급하고 깃에 생성한다.
 
 git remote add origin https://github.com/DongHwanmon/day2.git
 원격으로 어디에 저장을 할건지 연결을 시키는 명령어
 git push -u origin master
+등록한 허브에 올린다
 
+mkdir day2
+day2폴더를 생성한다.
 
 touch add.py
 add.py파일을 생성한다.
